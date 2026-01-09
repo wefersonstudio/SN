@@ -121,11 +121,8 @@
           "type": "FabricMod",
           "artifact": {
             "size": 83888885,
-            "url": "https://wefersonstudio.github.io/SN/servers/%EC%83%81%EB%86%80-1.21.4/fabricmods/optionalon/AmbientSounds_FABRIC_v6.1.3_mc1.21.4.jar",
+            "url": "https://wefersonstudio.github.io/SN/servers/%EC%83%81%EB%86%80-1.21.4/fabricmods/required/AmbientSounds_FABRIC_v6.1.3_mc1.21.4.jar",
             "MD5": "1105c7781328f54a82544954d46c1b7c"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -139,23 +136,23 @@
           }
         },
         {
-          "id": "moe.caramel.chat:caramelchat:1.2.2@jar",
-          "name": "CaramelChat",
+          "id": "team.creative:creativecore:2.12.35@jar",
+          "name": "CreativeCore",
           "type": "FabricMod",
           "artifact": {
-            "size": 163711,
-            "url": "https://wefersonstudio.github.io/SN/servers/%EC%83%81%EB%86%80-1.21.4/fabricmods/required/caramelChat-mc1.21.1-fabric-1.2.2.jar",
-            "MD5": "59c8ae912459442c192ff5537bf17f7a"
+            "size": 1201558,
+            "url": "https://wefersonstudio.github.io/SN/servers/%EC%83%81%EB%86%80-1.21.4/fabricmods/required/CreativeCore_FABRIC_v2.12.35_mc1.21.4.jar",
+            "MD5": "6711d5bce347c577c3368c9643b12f13"
           }
         },
         {
-          "id": "jp.axer.cocoainput.loader:cocoainput:4.4.0-EXPERIMENTAL@jar",
-          "name": "CocoaInput",
+          "id": "generated.fabricmod:fabric-api:0.119.4+1.21.4@jar",
+          "name": "Fabric API",
           "type": "FabricMod",
           "artifact": {
-            "size": 145184,
-            "url": "https://wefersonstudio.github.io/SN/servers/%EC%83%81%EB%86%80-1.21.4/fabricmods/required/CocoaInput-1.20.2-fabric-4.4.0-EXPERIMENTAL.jar",
-            "MD5": "b9fc7bc45cae0be15333d8ac17de1c4e"
+            "size": 2149128,
+            "url": "https://wefersonstudio.github.io/SN/servers/%EC%83%81%EB%86%80-1.21.4/fabricmods/required/fabric-api-0.119.4+1.21.4.jar",
+            "MD5": "128a8d042180e7c92567342e21a21a6d"
           }
         },
         {
@@ -166,6 +163,16 @@
             "size": 71283,
             "url": "https://wefersonstudio.github.io/SN/servers/%EC%83%81%EB%86%80-1.21.4/fabricmods/required/HQSimpleF3-fabric-1.0.0.jar",
             "MD5": "198798a603b20a7de83f4286d66d3734"
+          }
+        },
+        {
+          "id": "com.hyfata.najoan:koreanpatch:1.9.5+mc1.21.3@jar",
+          "name": "Korean Patch",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 595769,
+            "url": "https://wefersonstudio.github.io/SN/servers/%EC%83%81%EB%86%80-1.21.4/fabricmods/required/koreanpatch-fabric-1.9.5+mc1.21.3.jar",
+            "MD5": "f5c52ca25f04821fd25a205fa870e1bf"
           }
         },
         {
@@ -184,11 +191,8 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1306799,
-            "url": "https://wefersonstudio.github.io/SN/servers/%EC%83%81%EB%86%80-1.21.4/fabricmods/optionalon/sodium-fabric-0.6.13+mc1.21.4.jar",
+            "url": "https://wefersonstudio.github.io/SN/servers/%EC%83%81%EB%86%80-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
             "MD5": "28922a78d1876ee062e3265f10abcc46"
-          },
-          "required": {
-            "value": false
           }
         },
         {
