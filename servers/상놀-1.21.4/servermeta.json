@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///E:/%EC%83%81%EB%86%80%EB%9F%B0%EC%B2%98/workspace/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "상놀 (Minecraft 1.21.4)",
+    "description": "상놀 Running Minecraft 1.21.4 (Fabric v0.18.4)",
+    "icon": "https://cdn.discordapp.com/attachments/1459043155272794172/1459043500858540033/f224b825-c437-42b6-afaf-a73cd6538779.png?ex=6961d7a6&is=69608626&hm=5d2f3adbff214b0a354d4682465dd59963d4a34ab8735ccaa42f35a84facf59b&",
+    "address": "ls.lucystudio.kr:50206",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.18.4"
+  },
+  "untrackedFiles": []
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "file:///E:/%EC%83%81%EB%86%80%EB%9F%B0%EC%B2%98/workspace/schemas/DistroMetaSchema.schema.json",
+  "meta": {
+    "rss": "<LINK TO RSS FEED>",
+    "discord": {
+      "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    }
+  }
+}
